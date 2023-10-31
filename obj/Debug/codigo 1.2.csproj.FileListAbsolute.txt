@@ -1,0 +1,20 @@
+C:\Users\Santi\Desktop\codigo 1.2\bin\Debug\codigo 1.2.exe.config
+C:\Users\Santi\Desktop\codigo 1.2\bin\Debug\codigo 1.2.exe
+C:\Users\Santi\Desktop\codigo 1.2\bin\Debug\codigo 1.2.pdb
+C:\Users\Santi\Desktop\codigo 1.2\obj\Debug\codigo 1.2.csproj.AssemblyReference.cache
+C:\Users\Santi\Desktop\codigo 1.2\obj\Debug\codigo_1._2.Form1.resources
+C:\Users\Santi\Desktop\codigo 1.2\obj\Debug\codigo_1._2.Properties.Resources.resources
+C:\Users\Santi\Desktop\codigo 1.2\obj\Debug\codigo 1.2.csproj.GenerateResource.cache
+C:\Users\Santi\Desktop\codigo 1.2\obj\Debug\codigo 1.2.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Desktop\codigo 1.2\obj\Debug\codigo 1.2.exe
+C:\Users\Santi\Desktop\codigo 1.2\obj\Debug\codigo 1.2.pdb
+C:\Users\Santi\Desktop\Primer parcial practicas\abmc (conectado)\bin\Debug\codigo 1.2.exe.config
+C:\Users\Santi\Desktop\Primer parcial practicas\abmc (conectado)\bin\Debug\codigo 1.2.exe
+C:\Users\Santi\Desktop\Primer parcial practicas\abmc (conectado)\bin\Debug\codigo 1.2.pdb
+C:\Users\Santi\Desktop\Primer parcial practicas\abmc (conectado)\obj\Debug\codigo 1.2.csproj.AssemblyReference.cache
+C:\Users\Santi\Desktop\Primer parcial practicas\abmc (conectado)\obj\Debug\codigo_1._2.Form1.resources
+C:\Users\Santi\Desktop\Primer parcial practicas\abmc (conectado)\obj\Debug\codigo_1._2.Properties.Resources.resources
+C:\Users\Santi\Desktop\Primer parcial practicas\abmc (conectado)\obj\Debug\codigo 1.2.csproj.GenerateResource.cache
+C:\Users\Santi\Desktop\Primer parcial practicas\abmc (conectado)\obj\Debug\codigo 1.2.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Desktop\Primer parcial practicas\abmc (conectado)\obj\Debug\codigo 1.2.exe
+C:\Users\Santi\Desktop\Primer parcial practicas\abmc (conectado)\obj\Debug\codigo 1.2.pdb
